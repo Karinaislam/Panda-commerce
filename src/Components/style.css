@@ -1,0 +1,63 @@
+.container{
+    margin-top: 20px;
+
+}
+.carousel{
+    margin-top: 50px;
+background-color: #feeae9;
+}
+
+.carousel-caption{
+    color: black !important;
+    bottom: 157px !important;
+}
+
+.cat1, .cat2, .cat3{
+padding: 10px 30px;
+border-radius: 5px;
+}
+
+.cat1{
+background-color: blueviolet;
+}
+
+.cat2{
+background-color: chocolate;
+}
+
+.cat3{
+background-color: darkblue;
+}
+
+.catagoried{
+
+}
+.catagoried img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.header{
+    text-align: left;
+    margin-top: 40px;
+}
+
+.jumbotron{
+    background-color: #feeae9 !important;
+}
+
+.subsBtn{
+    margin-top: 20px;
+}
+
+/* .cartIcon{
+    float: right !important;
+} */
+
+.cardImg{
+    object-fit: cover;
+}
